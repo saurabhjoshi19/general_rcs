@@ -1,0 +1,6 @@
+# Basic aliases
+alias t='ls -rlht'
+alias rm='rm -i'
+
+# Activating envs
+alias mainenv=source '/home/saurabh/envs/mainenv'
